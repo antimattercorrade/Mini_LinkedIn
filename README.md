@@ -195,7 +195,7 @@ copy the `interfaces` file from older versions and paste it in the directory.
 
 Note: We have used a fat tree topology for testing, with depth 2 and fanout 4. 
 Here is the structure of the Fat tree topology: 
-![picture alt](./architecture/fat_tree.png "fat tree")
+![picture alt](https://raw.githubusercontent.com/adityatripathiiit/Mini_LinkedIn/master/architecture/fat_tree.png "fat tree")
 #
 ## Networking Paradigm :computer:
 #
